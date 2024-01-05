@@ -6,3 +6,4 @@
 | https://react-icons.github.io/react-icons/ | Icons |
 | https://react-icons.github.io/react-icons/ | Icons |
 | https://react-icons.github.io/react-icons/ | Icons |
+| https://react-icons.github.io/react-icons/ | Icons |

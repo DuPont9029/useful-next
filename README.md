@@ -4,3 +4,4 @@
 | https://ui.shadcn.com/ | Next.js ui library | todo |
 | https://gsap.com/ | Next.js animation library | todo |
 | https://react-icons.github.io/react-icons/ | Icons | todo |
+| URL | Scope | Docs Url |

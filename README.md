@@ -5,3 +5,4 @@
 | https://gsap.com/ | Next.js animation library | todo |
 | https://react-icons.github.io/react-icons/ | Icons | todo |
 | https://supabase.com/ | foss backend infrastructure | https://supabase.com/docs |
+| https://huemint.com/ | Ai palette generator | None |

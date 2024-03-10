@@ -7,3 +7,4 @@
 | https://supabase.com/ | foss backend infrastructure | https://supabase.com/docs |
 | https://huemint.com/ | Ai palette generator | None |
 | https://neumorphism.io/ | Create neumorphism styles | None |
+| https://uiverse.io/ | random tailwind ui components | None |

@@ -8,4 +8,3 @@
 | https://huemint.com/ | Ai palette generator | None |
 | https://neumorphism.io/ | Create neumorphism styles | None |
 | https://uiverse.io/ | random tailwind ui components | None |
-| test | none | boh |

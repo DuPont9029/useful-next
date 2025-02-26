@@ -8,3 +8,4 @@
 | https://huemint.com/ | Ai palette generator | None |
 | https://neumorphism.io/ | Create neumorphism styles | None |
 | https://uiverse.io/ | random tailwind ui components | None |
+| www.torproject.org | anonimity browser | none |
